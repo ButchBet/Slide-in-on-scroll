@@ -2,21 +2,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
-
-## Overview
-This is a solution to the [Slide in on scroll Project in the JavaScript30 Course](https://courses.wesbos.com).
-
-### Screenshot
+## Screenshot
 ![Desktop](./src/assets/desktop.png)
 ![Mobile](./src/assets/mobile.png)
 
-### Links
+## Links
 - Solution URL: [GitHub](https://github.com/ButchBet/Slide-in-on-scroll)
 - Live Site URL: [Slide in on scroll](https://slideinonscrollbutchbet.netlify.app/)
 
